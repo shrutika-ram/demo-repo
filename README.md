@@ -1,3 +1,3 @@
 # Demo
 
-this is the demo file
+This is a demo file
